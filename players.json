@@ -1,0 +1,62 @@
+{
+  "players": [
+    {
+      "name": "SwertyX_",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/SwertyX_",
+      "tiers": {
+        "ogv": "HT3"
+      }
+    },
+    {
+      "name": "21dreazly",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/21dreazly",
+      "tiers": {
+        "nethpot": "HT4",
+        "beast": "HT5",
+        "ogv": "HT4"
+      }
+    },
+    {
+      "name": "awdsa",
+      "region": "NA",
+      "avatar": "https://mc-heads.net/avatar/awdsa",
+      "tiers": {
+        "nethpot": "LT5",
+        "beast": "LT5",
+        "ogv": "LT5"
+      }
+    },
+    {
+      "name": "TestPlayer1",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/TestPlayer1",
+      "tiers": {
+        "nethpot": "HT1",
+        "axe": "HT2",
+        "ogv": "HT1"
+      }
+    },
+    {
+      "name": "TestPlayer2",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/TestPlayer2",
+      "tiers": {
+        "nethpot": "LT3",
+        "axe": "LT4",
+        "ogv": "LT2"
+      }
+    },
+    {
+      "name": "TestPlayer3",
+      "region": "NA",
+      "avatar": "https://mc-heads.net/avatar/TestPlayer3",
+      "tiers": {
+        "nethpot": "HT2",
+        "beast": "HT3",
+        "pot": "HT4"
+      }
+    }
+  ]
+}
