@@ -19,7 +19,8 @@ const CATEGORY_NAMES = {
     'pot': 'Pot',
     'crystal': 'Crystal',
     'uhc': 'UHC',
-    'beast': 'Beast'
+    'beast': 'Beast',
+    'mace': 'Mace'
 };
 
 // Category icons with PNG paths
@@ -31,7 +32,8 @@ const CATEGORY_ICONS = {
     'pot': 'images/diapot.png',
     'crystal': 'images/vanilla.png',
     'uhc': 'images/uhc.png',
-    'beast': 'images/beast.png'
+    'beast': 'images/beast.png',
+    'mace': 'images/mace.png'
 };
 
 // Category icons (fallback emojis)
@@ -43,7 +45,8 @@ const CATEGORY_ICONS_FALLBACK = {
     'pot': '💎',
     'crystal': '⬡',
     'uhc': '❤️',
-    'beast': '👹'
+    'beast': '👹',
+    'mace': '🔨'
 };
 
 let playersData = [];
