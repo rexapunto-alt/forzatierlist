@@ -5,7 +5,8 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/SwertyX_",
       "tiers": {
-        "ogv": "HT3"
+        "ogv": "HT3",
+        "mace": "HT2"
       }
     },
     {
@@ -15,7 +16,8 @@
       "tiers": {
         "nethpot": "HT4",
         "beast": "HT5",
-        "ogv": "HT4"
+        "ogv": "HT4",
+        "mace": "HT3"
       }
     },
     {
@@ -25,7 +27,8 @@
       "tiers": {
         "nethpot": "LT5",
         "beast": "LT5",
-        "ogv": "LT5"
+        "ogv": "LT5",
+        "mace": "LT4"
       }
     },
     {
@@ -35,7 +38,8 @@
       "tiers": {
         "nethpot": "HT1",
         "axe": "HT2",
-        "ogv": "HT1"
+        "ogv": "HT1",
+        "mace": "HT1"
       }
     },
     {
@@ -45,7 +49,8 @@
       "tiers": {
         "nethpot": "LT3",
         "axe": "LT4",
-        "ogv": "LT2"
+        "ogv": "LT2",
+        "mace": "LT3"
       }
     },
     {
@@ -55,7 +60,8 @@
       "tiers": {
         "nethpot": "HT2",
         "beast": "HT3",
-        "pot": "HT4"
+        "pot": "HT4",
+        "mace": "HT2"
       }
     }
   ]
