@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forza Pvp TierList</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Top Navbar -->
+    <nav class="top-navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="/images/minecraft_title.png" alt="Forza PvP" style="height: 35px;">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#" class="active"><i class="fa-solid fa-house"></i> Home</a></li>
+                <li><a href="#"><i class="fa-solid fa-trophy"></i> Rankings</a></li>
+                <li><a href="https://discord.gg/eQMmXJtekd" target="_blank"><i class="fa-brands fa-discord"></i> Discords</a></li>
+                <li><a href="#"><i class="fa-solid fa-file-code"></i> API Docs</a></li>
+            </ul>
+            <div class="search-bar">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="searchInput" placeholder="Search player...">
+                <span class="hotkey">/</span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content Container -->
+    <div class="main-container">
+        
+        <!-- Modes Navbar -->
+        <div class="modes-navbar" id="modes-navbar">
+            <!-- Rendered by JS -->
+        </div>
+
+        <!-- content-area switches between overall and kit views -->
+        <div id="content-area">
+            <!-- Overall View Container -->
+            <div id="overall-view" class="view-panel active">
+                <div class="overall-header">
+                    <div class="h-rank">#</div>
+                    <div class="h-player">PLAYER</div>
+                    <div class="h-right-group">
+                        <div class="h-region">REGION</div>
+                        <div class="h-tiers">TIERS</div>
+                    </div>
+                </div>
+                <div id="overall-list">
+                    <!-- Populated randomly by JS -->
+                </div>
+            </div>
+
+            <!-- Kit View Container -->
+            <div id="kit-view" class="view-panel" style="display: none;">
+                <div class="tier-columns-container" id="tier-columns">
+                    <!-- 5 Columns populated by JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Player Profile Modal -->
+    <div class="modal-overlay" id="profile-modal">
+        <div class="modal-content profile-card">
+            <button class="close-modal" id="close-modal"><i class="fa-solid fa-xmark"></i></button>
+            
+            <div class="profile-header">
+                <div class="profile-avatar-wrapper">
+                    <img id="modal-skin" src="" alt="Player Skin">
+                </div>
+                <h2 id="modal-name">PlayerName</h2>
+                <div class="profile-badge">
+                    <i class="fa-solid fa-gem"></i> <span id="modal-subtitle">Combat Novice</span>
+                </div>
+                <div class="profile-region" id="modal-region">Europe</div>
+                <a class="namemc-btn" id="modal-namemc" href="#" target="_blank">
+                    <img style="width:14px; margin-right:4px;" src="https://namemc.com/favicon.ico" alt=""> NameMC <i class="fa-solid fa-arrow-up-right-from-square" style="margin-left:4px; font-size:0.7rem;"></i>
+                </a>
+            </div>
+            
+            <div class="profile-section">
+                <span class="sec-label">POSITION</span>
+                <div class="position-box">
+                    <div class="pos-left">
+                        <span id="modal-rank">18917.</span>
+                    </div>
+                    <div class="pos-right">
+                        <i class="fa-solid fa-trophy" style="color: #facc15;"></i> <strong>OVERALL</strong> <span id="modal-score" class="score-text">(10 points)</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="profile-section">
+                <span class="sec-label">TIERS</span>
+                <div class="profile-tiers-box" id="modal-tiers-grid">
+                    <!-- JS fills this -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

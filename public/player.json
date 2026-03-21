@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Wzduuh",
+    "region": "TR",
+    "tiers": {
+      "nethpot": "HT3",
+      "diapot": "LT4",
+      "axe": "LT4",
+      "mace": "LT4",
+      "smp": "LT5"
+    }
+  },
+  {
+    "name": "janevkv",
+    "region": "EU",
+    "tiers": {
+      "nethpot": "HT1",
+      "axe": "LT1",
+      "diapot": "LT1"
+    }
+  }
+]
