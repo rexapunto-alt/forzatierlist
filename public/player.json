@@ -81,6 +81,68 @@
       "tiers": {
         "smp": "HT3"
       }
+    },
+    {
+      "name": "heraxw_",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/heraxw_",
+      "tiers": {
+        "nethpot": "LT3",
+        "beast": "LT3",
+        "uhc": "LT5"
+      }
+    },
+    {
+      "name": "Utoxx",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Utoxx",
+      "tiers": {
+        "uhc": "LT4",
+        "axe": "LT3",
+        "crystal": "HT5",
+        "beast": "HT3",
+        "ogv": "HT3",
+        "diapot": "HT3",
+        "smp": "LT3",
+        "nethpot": "HT3"
+      }
+    },
+    {
+      "name": "Lyrcs41",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Lyrcs41",
+      "tiers": {
+        "smp": "HT4",
+        "nethpot": "LT3",
+        "beast": "LT4"
+      }
+    },
+    {
+      "name": "knavBitek",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/knavBitek",
+      "tiers": {
+        "uhc": "LT4",
+        "axe": "LT4",
+        "smp": "LT3",
+        "diapot": "LT3",
+        "nethpot": "LT3",
+        "beast": "LT3",
+        "crystal": "LT4"
+      }
+    },
+    {
+      "name": "Lwec",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Lwec",
+      "tiers": {
+        "uhc": "HT5",
+        "axe": "LT4",
+        "smp": "LT4",
+        "diapot": "LT4",
+        "nethpot": "LT3",
+        "beast": "LT3"
+      }
     }
   ]
 }
