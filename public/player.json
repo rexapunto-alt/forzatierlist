@@ -184,6 +184,57 @@
         "beast": "HT3",
         "ogv": "LT3"
       }
+    },
+    {
+      "name": "swexthat",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/swexthat",
+      "tiers": {
+        "smp": "HT4"
+      }
+    },
+    {
+      "name": "bianceusxr",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/bianceusxr",
+      "tiers": {
+        "smp": "HT5"
+      }
+    },
+    {
+      "name": "AndrieSs__",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/AndrieSs__",
+      "tiers": {
+        "uhc": "LT3",
+        "smp": "LT3",
+        "diapot": "LT3",
+        "nethpot": "LT3",
+        "beast": "LT3",
+        "ogv": "LT3"
+      }
+    },
+    {
+      "name": "batuhanoalix",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/batuhanoalix",
+      "tiers": {
+        "smp": "HT4"
+      }
+    },
+    {
+      "name": "votrexwotr",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/votrexwotr",
+      "tiers": {}
+    },
+    {
+      "name": "EzWizards",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/EzWizards",
+      "tiers": {
+        "smp": "LT4"
+      }
     }
   ]
 }
