@@ -10,8 +10,8 @@
     --tier-1: #facc15; /* Gold */
     --tier-2: #94a3b8; /* Silver */
     --tier-3: #b45309; /* Bronze */
-    --tier-4: #475569; /* Slate */
-    --tier-5: #1e293b; /* Dark */
+    --tier-4: #64748b; /* Slate Gray */
+    --tier-5: #475569; /* Dark Slate */
     
     --font-ui: 'Inter', sans-serif;
     --font-code: 'JetBrains Mono', monospace;
@@ -361,8 +361,8 @@ a { text-decoration: none; color: inherit; }
 .col-t1 { --border-color: var(--tier-1); color: var(--tier-1); }
 .col-t2 { --border-color: var(--tier-2); color: var(--tier-2); }
 .col-t3 { --border-color: var(--tier-3); color: var(--tier-3); }
-.col-t4 { color: var(--tier-4); }
-.col-t5 { color: var(--tier-5); border-top: 4px solid #111a28; }
+.col-t4 { --border-color: var(--tier-4); color: var(--tier-4); }
+.col-t5 { --border-color: var(--tier-5); color: var(--tier-5); }
 
 /* List inside column */
 .tier-list {
