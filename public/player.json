@@ -1,22 +1,86 @@
-[
-  {
-    "name": "Wzduuh",
-    "region": "TR",
-    "tiers": {
-      "nethpot": "HT3",
-      "diapot": "LT4",
-      "axe": "LT4",
-      "mace": "LT4",
-      "smp": "LT5"
+{
+  "players": [
+    {
+      "name": "Amrws",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Amrws",
+      "tiers": {
+        "mace": "HT5",
+        "crystal": "HT5"
+      }
+    },
+    {
+      "name": "sSlexenn",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/sSlexenn",
+      "tiers": {
+        "uhc": "LT4",
+        "smp": "LT3",
+        "beast": "LT3"
+      }
+    },
+    {
+      "name": "SwertyX_",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/SwertyX_",
+      "tiers": {
+        "uhc": "HT4",
+        "axe": "LT4",
+        "smp": "HT4",
+        "nethpot": "LT3"
+      }
+    },
+    {
+      "name": "WhyAlwaysRon",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/WhyAlwaysRon",
+      "tiers": {
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "ItsOmyx",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/ItsOmyx",
+      "tiers": {
+        "nethpot": "LT4"
+      }
+    },
+    {
+      "name": "TheWayn",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/TheWayn",
+      "tiers": {
+        "smp": "HT4",
+        "nethpot": "LT3",
+        "beast": "HT4"
+      }
+    },
+    {
+      "name": "Jaskiers",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Jaskiers",
+      "tiers": {
+        "ogv": "LT3",
+        "beast": "LT3",
+        "smp": "LT2"
+      }
+    },
+    {
+      "name": "CumaliSad",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/CumaliSad",
+      "tiers": {
+        "beast": "LT3"
+      }
+    },
+    {
+      "name": "MentosLovesYou",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/MentosLovesYou",
+      "tiers": {
+        "smp": "HT3"
+      }
     }
-  },
-  {
-    "name": "janevkv",
-    "region": "EU",
-    "tiers": {
-      "nethpot": "HT1",
-      "axe": "LT1",
-      "diapot": "LT1"
-    }
-  }
-]
+  ]
+}
