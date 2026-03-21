@@ -44,7 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('/player.json')
         .then(res => res.json())
         .then(data => {
-            players = data.map((p, idx) => {
+            const playerList = Array.isArray(data) ? data : (data.players || []);
+            players = playerList.map((p, idx) => {
                 let totalPoints = 0;
                 if (p.tiers) {
                     for (const kit in p.tiers) {
