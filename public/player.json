@@ -650,6 +650,108 @@
       "tiers": {
         "nethpot": "HT5"
       }
+    },
+    {
+      "name": "NexusBlade",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/NexusBlade",
+      "tiers": {
+        "smp": "LT4"
+      }
+    },
+    {
+      "name": "MergenIsThebest",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/MergenIsThebest",
+      "tiers": {
+        "crystal": "LT4",
+        "uhc": "LT3",
+        "ogv": "LT3",
+        "smp": "LT3",
+        "diapot": "LT3",
+        "nethpot": "LT3",
+        "beast": "LT3"
+      }
+    },
+    {
+      "name": "EFPOTINOS",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/EFPOTINOS",
+      "tiers": {
+        "smp": "HT4"
+      }
+    },
+    {
+      "name": "GaryRoach",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/GaryRoach",
+      "tiers": {
+        "smp": "LT4"
+      }
+    },
+    {
+      "name": "YetenekZyren",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/YetenekZyren",
+      "tiers": {
+        "nethpot": "LT3"
+      }
+    },
+    {
+      "name": "PattisKafa",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/PattisKafa",
+      "tiers": {
+        "smp": "HT5"
+      }
+    },
+    {
+      "name": "mearexv2",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/mearexv2",
+      "tiers": {
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "DarwinStyle_",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/DarwinStyle_",
+      "tiers": {
+        "smp": "HT4"
+      }
+    },
+    {
+      "name": "CpvpEx",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/CpvpEx",
+      "tiers": {
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "witherking122",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/witherking122",
+      "tiers": {
+        "smp": "HT4"
+      }
+    },
+    {
+      "name": "_Sancarr",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/_Sancarr",
+      "tiers": {
+        "nethpot": "HT4"
+      }
+    },
+    {
+      "name": "bntortila_cxn",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/bntortila_cxn",
+      "tiers": {
+        "nethpot": "HT4"
+      }
     }
   ]
 }
