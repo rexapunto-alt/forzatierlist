@@ -752,6 +752,98 @@
       "tiers": {
         "nethpot": "HT4"
       }
+    },
+    {
+      "name": "_Kires_",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/_Kires_",
+      "tiers": {
+        "smp": "HT5"
+      }
+    },
+    {
+      "name": "RONKAYRA777",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/RONKAYRA777",
+      "tiers": {
+        "beast": "LT4",
+        "smp": "HT4",
+        "nethpot": "HT5"
+      }
+    },
+    {
+      "name": "_MLH",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/_MLH",
+      "tiers": {
+        "beast": "HT5"
+      }
+    },
+    {
+      "name": "Jul1hex",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/Jul1hex",
+      "tiers": {
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "1Jspears",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/1Jspears",
+      "tiers": {
+        "ogv": "HT4",
+        "axe": "LT4",
+        "smp": "LT3",
+        "nethpot": "LT4",
+        "beast": "HT4"
+      }
+    },
+    {
+      "name": "SalihPro1903",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/SalihPro1903",
+      "tiers": {
+        "beast": "LT4"
+      }
+    },
+    {
+      "name": "Wesly",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/Wesly",
+      "tiers": {
+        "beast": "LT4"
+      }
+    },
+    {
+      "name": "Crossiki2",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/Crossiki2",
+      "tiers": {
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "Rawus",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Rawus",
+      "tiers": {
+        "crystal": "HT5",
+        "axe": "LT4",
+        "nethpot": "HT5",
+        "beast": "LT3"
+      }
+    },
+    {
+      "name": "sSofu",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/sSofu",
+      "tiers": {
+        "crystal": "LT3",
+        "diapot": "LT4",
+        "nethpot": "HT4",
+        "beast": "LT4"
+      }
     }
   ]
 }
