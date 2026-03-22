@@ -334,7 +334,7 @@
       "region": "EU",
       "avatar": "https://mc-heads.net/avatar/Demors_1",
       "tiers": {
-        "nethpot": "LT3"
+        "nethpot": "HT4"
       }
     },
     {
@@ -375,6 +375,170 @@
       "avatar": "https://mc-heads.net/avatar/sekostyle",
       "tiers": {
         "nethpot": "HT5"
+      }
+    },
+    {
+      "name": "winxmonster0",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/winxmonster0",
+      "tiers": {
+        "nethpot": "LT3",
+        "crystal": "HT5"
+      }
+    },
+    {
+      "name": "Tugberk00000",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Tugberk00000",
+      "tiers": {
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "AsakaisTheBest",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/AsakaisTheBest",
+      "tiers": {
+        "nethpot": "HT5"
+      }
+    },
+    {
+      "name": "ege0307",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/ege0307",
+      "tiers": {
+        "nethpot": "LT4"
+      }
+    },
+    {
+      "name": "jrwhopper",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/jrwhopper",
+      "tiers": {
+        "nethpot": "HT5"
+      }
+    },
+    {
+      "name": "brkyusuf",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/brkyusuf",
+      "tiers": {
+        "smp": "LT4"
+      }
+    },
+    {
+      "name": "wixi098",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/wixi098",
+      "tiers": {
+        "nethpot": "LT3"
+      }
+    },
+    {
+      "name": "sco0rp",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/sco0rp",
+      "tiers": {
+        "smp": "HT4"
+      }
+    },
+    {
+      "name": "ahm3dx",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/ahm3dx",
+      "tiers": {
+        "nethpot": "HT4"
+      }
+    },
+    {
+      "name": "WhyAlwaysRon",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/WhyAlwaysRon",
+      "tiers": {
+        "nethpot": "HT5"
+      }
+    },
+    {
+      "name": "Enesad",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/Enesad",
+      "tiers": {
+        "nethpot": "LT4"
+      }
+    },
+    {
+      "name": "ahke1",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/ahke1",
+      "tiers": {
+        "ogv": "LT5"
+      }
+    },
+    {
+      "name": "EmirLord54",
+      "region": "EU",
+      "avatar": "https://mc-heads.net/avatar/EmirLord54",
+      "tiers": {
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "Zudoshy",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Zudoshy",
+      "tiers": {
+        "nethpot": "LT4"
+      }
+    },
+    {
+      "name": "theater",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/theater",
+      "tiers": {
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "r1ng__",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/r1ng__",
+      "tiers": {
+        "nethpot": "LT3"
+      }
+    },
+    {
+      "name": "lwecc",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/lwecc",
+      "tiers": {
+        "uhc": "HT5",
+        "axe": "LT4",
+        "smp": "LT4",
+        "diapot": "LT4",
+        "nethpot": "LT3",
+        "beast": "LT3"
+      }
+    },
+    {
+      "name": "Wafe15",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Wafe15",
+      "tiers": {
+        "smp": "LT4"
+      }
+    },
+    {
+      "name": "combox_tr",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/combox_tr",
+      "tiers": {}
+    },
+    {
+      "name": "whesthegreatt",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/whesthegreatt",
+      "tiers": {
+        "smp": "HT4"
       }
     }
   ]
