@@ -642,20 +642,6 @@
       }
     },
     {
-      "name": "MergenIsThebest",
-      "region": "TR",
-      "avatar": "https://mc-heads.net/avatar/MergenIsThebest",
-      "tiers": {
-        "crystal": "LT4",
-        "uhc": "LT3",
-        "ogv": "LT3",
-        "smp": "LT3",
-        "diapot": "LT3",
-        "nethpot": "LT3",
-        "beast": "LT3"
-      }
-    },
-    {
       "name": "MergenIsTheBest",
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/MergenIsTheBest",
