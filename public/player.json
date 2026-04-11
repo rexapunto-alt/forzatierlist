@@ -26,20 +26,21 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/SwertyX_",
       "tiers": {
-        "uhc": "HT4",
-        "axe": "LT4",
+        "nethpot": "LT3",
         "smp": "HT4",
-        "nethpot": "LT3"
+        "beast": "LT3",
+        "ogv": "LT3",
+        "diapot": "HT4"
       }
     },
     {
       "name": "WhyAlwaysRon",
-      "region": "EU",
+      "region": "TR",
       "avatar": "https://mc-heads.net/avatar/WhyAlwaysRon",
       "tiers": {
-        "smp": "LT3",
-        "nethpot": "LT4",
-        "beast": "LT5"
+        "nethpot": "HT5",
+        "beast": "HT5",
+        "smp": "LT3"
       }
     },
     {
@@ -94,21 +95,6 @@
         "nethpot": "LT3",
         "beast": "LT3",
         "uhc": "LT5"
-      }
-    },
-    {
-      "name": "Utoxx",
-      "region": "TR",
-      "avatar": "https://mc-heads.net/avatar/Utoxx",
-      "tiers": {
-        "uhc": "LT4",
-        "axe": "LT3",
-        "crystal": "HT5",
-        "beast": "HT3",
-        "ogv": "HT3",
-        "diapot": "HT3",
-        "smp": "LT3",
-        "nethpot": "HT3"
       }
     },
     {
@@ -205,19 +191,6 @@
       "avatar": "https://mc-heads.net/avatar/bianceusxr",
       "tiers": {
         "smp": "HT5"
-      }
-    },
-    {
-      "name": "AndrieSs__",
-      "region": "TR",
-      "avatar": "https://mc-heads.net/avatar/AndrieSs__",
-      "tiers": {
-        "uhc": "LT3",
-        "smp": "LT3",
-        "diapot": "LT3",
-        "nethpot": "LT3",
-        "beast": "LT3",
-        "ogv": "LT3"
       }
     },
     {
@@ -1397,17 +1370,21 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/ruix1",
       "tiers": {
-        "nethpot": "HT4"
+        "beast": "LT4",
+        "nethpot": "LT4",
+        "smp": "LT4",
+        "mace": "LT5"
       }
     },
     {
       "name": "TeroristL6",
-      "region": "EU",
+      "region": "TR",
       "avatar": "https://mc-heads.net/avatar/TeroristL6",
       "tiers": {
+        "beast": "LT4",
         "nethpot": "LT4",
-        "mace": "LT5",
-        "smp": "LT4"
+        "smp": "LT4",
+        "mace": "LT5"
       }
     },
     {
@@ -1718,11 +1695,15 @@
     },
     {
       "name": "ekmekenes82",
-      "region": "EU",
+      "region": "TR",
       "avatar": "https://mc-heads.net/avatar/ekmekenes82",
       "tiers": {
+        "beast": "HT4",
+        "crystal": "LT4",
+        "smp": "HT4",
+        "diapot": "HT4",
         "nethpot": "HT4",
-        "mace": "HT4"
+        "mace": "LT3"
       }
     },
     {
@@ -1730,7 +1711,10 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/SigmaLaz",
       "tiers": {
-        "smp": "LT4",
+        "smp": "HT4",
+        "crystal": "HT5",
+        "mace": "HT5",
+        "uhc": "HT5",
         "nethpot": "HT4",
         "beast": "HT5"
       }
@@ -2018,10 +2002,12 @@
     },
     {
       "name": "3mns",
-      "region": "EU",
+      "region": "TR",
       "avatar": "https://mc-heads.net/avatar/3mns",
       "tiers": {
-        "mace": "LT4"
+        "diapot": "LT3",
+        "mace": "LT4",
+        "beast": "LT3"
       }
     },
     {
@@ -2194,6 +2180,30 @@
       "avatar": "https://mc-heads.net/avatar/tunahan331",
       "tiers": {
         "diapot": "LT4"
+      }
+    },
+    {
+      "name": "DarthVoka",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/DarthVoka",
+      "tiers": {
+        "nethpot": "HT4",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "Taunus",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Taunus",
+      "tiers": {
+        "nethpot": "LT3",
+        "smp": "HT4",
+        "ogv": "HT5",
+        "diapot": "LT3",
+        "uhc": "LT4",
+        "mace": "HT5",
+        "beast": "HT4",
+        "crystal": "LT5"
       }
     }
   ]
