@@ -1711,14 +1711,6 @@
       }
     },
     {
-      "name": "BEATR1XX",
-      "region": "EU",
-      "avatar": "https://mc-heads.net/avatar/BEATR1XX",
-      "tiers": {
-        "mace": "LT5"
-      }
-    },
-    {
       "name": "THeGReatSWindler",
       "region": "EU",
       "avatar": "https://mc-heads.net/avatar/THeGReatSWindler",
@@ -2242,6 +2234,117 @@
         "smp": "LT4",
         "crystal": "LT3",
         "axe": "HT5"
+      }
+    },
+    {
+      "name": "StrayVi",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/StrayVi",
+      "tiers": {
+        "nethpot": "LT3"
+      }
+    },
+    {
+      "name": "AshWitt",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/AshWitt",
+      "tiers": {
+        "nethpot": "HT4",
+        "mace": "HT5",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "Byegorubio",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Byegorubio",
+      "tiers": {
+        "uhc": "LT3",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "C4maliSad",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/C4maliSad",
+      "tiers": {
+        "diapot": "LT3",
+        "smp": "LT3",
+        "axe": "LT4",
+        "beast": "LT3",
+        "mace": "HT5",
+        "nethpot": "HT4"
+      }
+    },
+    {
+      "name": "WxeyslS",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/WxeyslS",
+      "tiers": {
+        "beast": "LT4"
+      }
+    },
+    {
+      "name": "xeno_o",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/xeno_o",
+      "tiers": {
+        "crystal": "HT5",
+        "smp": "LT4",
+        "uhc": "LT4",
+        "beast": "HT4"
+      }
+    },
+    {
+      "name": "Passion21",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Passion21",
+      "tiers": {
+        "crystal": "LT4"
+      }
+    },
+    {
+      "name": "Vardisell",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Vardisell",
+      "tiers": {
+        "nethpot": "HT5",
+        "beast": "HT4",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "frukiq",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/frukiq",
+      "tiers": {
+        "beast": "HT4",
+        "uhc": "LT3",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "KaanDegilim",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/KaanDegilim",
+      "tiers": {
+        "crystal": "LT4",
+        "nethpot": "LT3",
+        "smp": "HT4",
+        "beast": "LT3",
+        "uhc": "LT4"
+      }
+    },
+    {
+      "name": "Legendoqw",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Legendoqw",
+      "tiers": {
+        "diapot": "LT4",
+        "axe": "LT3",
+        "uhc": "HT4",
+        "beast": "LT4",
+        "smp": "LT4"
       }
     }
   ]
