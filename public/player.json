@@ -156,21 +156,6 @@
       }
     },
     {
-      "name": "1nbr",
-      "region": "TR",
-      "avatar": "https://mc-heads.net/avatar/1nbr",
-      "tiers": {
-        "mace": "LT3",
-        "uhc": "HT3",
-        "axe": "HT3",
-        "smp": "LT3",
-        "diapot": "LT3",
-        "beast": "HT3",
-        "ogv": "LT3",
-        "diamond smp": "LT3"
-      }
-    },
-    {
       "name": "swexthat",
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/swexthat",
@@ -802,21 +787,6 @@
       "avatar": "https://mc-heads.net/avatar/Avendros",
       "tiers": {
         "beast": "LT3"
-      }
-    },
-    {
-      "name": "cqek",
-      "region": "TR",
-      "avatar": "https://mc-heads.net/avatar/cqek",
-      "tiers": {
-        "crystal": "LT3",
-        "uhc": "LT3",
-        "axe": "LT3",
-        "smp": "HT3",
-        "diapot": "LT3",
-        "nethpot": "LT3",
-        "beast": "LT3",
-        "diamond smp": "LT3"
       }
     },
     {
