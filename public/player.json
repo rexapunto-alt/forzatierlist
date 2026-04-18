@@ -28,9 +28,13 @@
       "tiers": {
         "nethpot": "LT3",
         "smp": "HT4",
+        "crystal": "HT5",
+        "axe": "HT4",
+        "diapot": "LT3",
+        "uhc": "HT4",
         "beast": "LT3",
-        "ogv": "LT3",
-        "diapot": "HT4"
+        "mace": "LT4",
+        "ogv": "LT3"
       }
     },
     {
@@ -38,7 +42,8 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/WhyAlwaysRon",
       "tiers": {
-        "nethpot": "HT5",
+        "axe": "HT5",
+        "nethpot": "HT4",
         "beast": "HT5",
         "smp": "LT3"
       }
@@ -112,13 +117,14 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/knavBitek",
       "tiers": {
-        "uhc": "LT4",
+        "crystal": "LT4",
+        "nethpot": "LT3",
+        "elytra": "LT3",
         "axe": "LT4",
         "smp": "LT3",
-        "diapot": "LT3",
-        "nethpot": "LT3",
-        "beast": "LT3",
-        "crystal": "LT4"
+        "uhc": "LT4",
+        "beast": "HT4",
+        "diapot": "HT4"
       }
     },
     {
@@ -413,11 +419,15 @@
     },
     {
       "name": "ahm3dx",
-      "region": "EU",
+      "region": "TR",
       "avatar": "https://mc-heads.net/avatar/ahm3dx",
       "tiers": {
-        "nethpot": "HT4",
-        "mace": "LT5"
+        "nethpot": "LT3",
+        "smp": "HT4",
+        "axe": "HT5",
+        "diapot": "LT4",
+        "mace": "HT5",
+        "beast": "HT4"
       }
     },
     {
@@ -1145,12 +1155,10 @@
     },
     {
       "name": "NAKHADU",
-      "region": "EU",
+      "region": "TR",
       "avatar": "https://mc-heads.net/avatar/NAKHADU",
       "tiers": {
-        "beast": "HT5",
-        "smp": "LT4",
-        "nethpot": "LT4"
+        "nethpot": "LT3"
       }
     },
     {
@@ -1297,10 +1305,13 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/BetoBaskan58",
       "tiers": {
-        "smp": "LT3",
         "diapot": "LT4",
+        "uhc": "HT4",
+        "mace": "LT4",
         "nethpot": "LT4",
-        "beast": "LT4"
+        "beast": "HT4",
+        "crystal": "LT3",
+        "smp": "LT3"
       }
     },
     {
@@ -1694,6 +1705,8 @@
         "smp": "HT4",
         "diapot": "HT4",
         "nethpot": "HT4",
+        "uhc": "LT4",
+        "axe": "LT4",
         "mace": "LT3"
       }
     },
@@ -2259,6 +2272,8 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/Byegorubio",
       "tiers": {
+        "diapot": "HT5",
+        "beast": "HT4",
         "uhc": "LT3",
         "smp": "LT3"
       }
@@ -2309,7 +2324,8 @@
       "avatar": "https://mc-heads.net/avatar/Vardisell",
       "tiers": {
         "nethpot": "HT5",
-        "beast": "HT4",
+        "diapot": "LT4",
+        "beast": "LT3",
         "smp": "LT3"
       }
     },
@@ -2345,6 +2361,62 @@
         "uhc": "HT4",
         "beast": "LT4",
         "smp": "LT4"
+      }
+    },
+    {
+      "name": "Senseii31",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Senseii31",
+      "tiers": {
+        "mace": "HT3",
+        "uhc": "LT3",
+        "crystal": "HT4",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "KyawAce",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/KyawAce",
+      "tiers": {
+        "diapot": "HT5",
+        "mace": "LT4",
+        "beast": "LT4",
+        "smp": "HT5",
+        "uhc": "HT5",
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "betobaskan58",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/betobaskan58",
+      "tiers": {
+        "diapot": "LT4",
+        "uhc": "HT4",
+        "mace": "LT4",
+        "nethpot": "LT4",
+        "beast": "HT4",
+        "crystal": "LT3",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "_ali445",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/_ali445",
+      "tiers": {
+        "smp": "HT5",
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "xRavenn7",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/xRavenn7",
+      "tiers": {
+        "nethpot": "LT4",
+        "beast": "LT3"
       }
     }
   ]
