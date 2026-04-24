@@ -42,10 +42,11 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/WhyAlwaysRon",
       "tiers": {
+        "beast": "HT4",
+        "smp": "LT3",
         "axe": "HT5",
-        "nethpot": "HT4",
-        "beast": "HT5",
-        "smp": "LT3"
+        "uhc": "LT4",
+        "nethpot": "HT4"
       }
     },
     {
@@ -412,6 +413,7 @@
         "axe": "HT5",
         "diapot": "LT4",
         "mace": "HT5",
+        "uhc": "HT5",
         "beast": "HT4"
       }
     },
@@ -1674,9 +1676,9 @@
         "crystal": "LT4",
         "smp": "HT4",
         "diapot": "HT4",
-        "nethpot": "HT4",
-        "uhc": "LT4",
         "axe": "LT4",
+        "uhc": "LT4",
+        "nethpot": "HT4",
         "mace": "LT3"
       }
     },
@@ -2242,9 +2244,12 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/Byegorubio",
       "tiers": {
+        "axe": "HT4",
         "diapot": "HT5",
+        "nethpot": "LT4",
         "beast": "HT4",
         "uhc": "LT3",
+        "crystal": "LT5",
         "smp": "LT3"
       }
     },
@@ -2275,10 +2280,11 @@
       "avatar": "https://mc-heads.net/avatar/xeno_o",
       "tiers": {
         "crystal": "HT5",
-        "nethpot": "LT4",
         "smp": "LT4",
+        "nethpot": "LT4",
         "uhc": "LT4",
-        "beast": "HT4"
+        "beast": "HT4",
+        "axe": "LT4"
       }
     },
     {
@@ -2379,8 +2385,10 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/_ali445",
       "tiers": {
+        "nethpot": "HT5",
         "smp": "HT5",
-        "nethpot": "LT5"
+        "uhc": "HT5",
+        "mace": "LT5"
       }
     },
     {
@@ -2401,6 +2409,126 @@
         "smp": "LT3",
         "nethpot": "LT4",
         "mace": "LT3"
+      }
+    },
+    {
+      "name": "Blodes",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Blodes",
+      "tiers": {
+        "beast": "HT4"
+      }
+    },
+    {
+      "name": "ErayArl",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/ErayArl",
+      "tiers": {
+        "uhc": "LT3"
+      }
+    },
+    {
+      "name": "oyuncu5661",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/oyuncu5661",
+      "tiers": {
+        "crystal": "LT4",
+        "beast": "LT4"
+      }
+    },
+    {
+      "name": "Kingh4",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Kingh4",
+      "tiers": {
+        "axe": "HT5",
+        "smp": "LT4",
+        "nethpot": "LT4",
+        "mace": "HT5"
+      }
+    },
+    {
+      "name": "drankdrankdrank6",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/drankdrankdrank6",
+      "tiers": {
+        "nethpot": "LT3",
+        "crystal": "HT5",
+        "beast": "LT3"
+      }
+    },
+    {
+      "name": "TheSaral",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/TheSaral",
+      "tiers": {
+        "axe": "HT4",
+        "diapot": "LT3",
+        "nethpot": "LT4",
+        "smp": "LT4",
+        "uhc": "LT4",
+        "beast": "HT4",
+        "crystal": "LT3",
+        "mace": "HT5"
+      }
+    },
+    {
+      "name": "FIORA82",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/FIORA82",
+      "tiers": {
+        "mace": "HT5",
+        "uhc": "HT5",
+        "beast": "HT5"
+      }
+    },
+    {
+      "name": "Elonova6",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Elonova6",
+      "tiers": {
+        "smp": "HT5",
+        "uhc": "LT4",
+        "mace": "HT5"
+      }
+    },
+    {
+      "name": "Arksqn1",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Arksqn1",
+      "tiers": {
+        "nethpot": "HT3",
+        "diapot": "HT3",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "iBayRees",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/iBayRees",
+      "tiers": {
+        "crystal": "HT5",
+        "nethpot": "LT5"
+      }
+    },
+    {
+      "name": "Evoder",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Evoder",
+      "tiers": {
+        "diapot": "HT5",
+        "beast": "LT4",
+        "nethpot": "LT4",
+        "crystal": "LT5"
+      }
+    },
+    {
+      "name": "Traxyq",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Traxyq",
+      "tiers": {
+        "beast": "LT3",
+        "nethpot": "HT4"
       }
     }
   ]
