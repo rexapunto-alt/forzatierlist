@@ -1975,8 +1975,10 @@
       "avatar": "https://mc-heads.net/avatar/3mns",
       "tiers": {
         "diapot": "LT3",
-        "mace": "LT4",
-        "beast": "LT3"
+        "beast": "LT3",
+        "mace": "HT5",
+        "crystal": "HT4",
+        "smp": "LT3"
       }
     },
     {
@@ -2312,6 +2314,8 @@
       "region": "TR",
       "avatar": "https://mc-heads.net/avatar/frukiq",
       "tiers": {
+        "axe": "HT4",
+        "diapot": "HT4",
         "beast": "HT4",
         "uhc": "LT3",
         "smp": "LT3"
@@ -2338,8 +2342,9 @@
         "smp": "HT4",
         "diapot": "LT4",
         "axe": "LT3",
-        "beast": "LT4",
+        "beast": "LT3",
         "mace": "HT5",
+        "elytra": "LT5",
         "uhc": "LT3"
       }
     },
@@ -2414,7 +2419,9 @@
       "tiers": {
         "beast": "LT3",
         "smp": "LT3",
+        "uhc": "LT4",
         "nethpot": "LT4",
+        "axe": "LT4",
         "mace": "LT3"
       }
     },
@@ -2596,7 +2603,9 @@
       "avatar": "https://mc-heads.net/avatar/Vanillafan",
       "tiers": {
         "mace": "LT4",
-        "smp": "LT4"
+        "smp": "LT4",
+        "uhc": "LT4",
+        "crystal": "HT4"
       }
     },
     {
@@ -2625,6 +2634,149 @@
         "nethpot": "LT3",
         "smp": "LT3",
         "beast": "LT3"
+      }
+    },
+    {
+      "name": "passat",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/passat",
+      "tiers": {
+        "nethpot": "LT3",
+        "smp": "LT4"
+      }
+    },
+    {
+      "name": "Stingss",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Stingss",
+      "tiers": {
+        "nethpot": "HT5",
+        "crystal": "LT4",
+        "diapot": "LT3",
+        "uhc": "LT4",
+        "mace": "LT5",
+        "beast": "HT4",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "heybenYORU",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/heybenYORU",
+      "tiers": {
+        "nethpot": "LT4"
+      }
+    },
+    {
+      "name": "Dwggo",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Dwggo",
+      "tiers": {
+        "uhc": "LT3"
+      }
+    },
+    {
+      "name": "GaryRoach",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/GaryRoach",
+      "tiers": {
+        "smp": "HT4",
+        "axe": "HT5",
+        "nethpot": "LT4"
+      }
+    },
+    {
+      "name": "ThePiaty",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/ThePiaty",
+      "tiers": {
+        "uhc": "LT3"
+      }
+    },
+    {
+      "name": "Azuritewy",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Azuritewy",
+      "tiers": {
+        "mace": "HT3"
+      }
+    },
+    {
+      "name": "orj_scream1",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/orj_scream1",
+      "tiers": {
+        "nethpot": "HT5",
+        "crystal": "HT5",
+        "axe": "HT5",
+        "beast": "LT4",
+        "smp": "LT4",
+        "uhc": "HT5",
+        "diapot": "LT5"
+      }
+    },
+    {
+      "name": "xars13",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/xars13",
+      "tiers": {
+        "elytra": "LT3"
+      }
+    },
+    {
+      "name": "mr.deta",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/mr.deta",
+      "tiers": {
+        "axe": "HT4",
+        "diapot": "HT4",
+        "beast": "HT4",
+        "uhc": "LT3",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "WisquimasXD",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/WisquimasXD",
+      "tiers": {
+        "nethpot": "HT3",
+        "diapot": "HT3"
+      }
+    },
+    {
+      "name": "shewaseverything",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/shewaseverything",
+      "tiers": {
+        "uhc": "LT3",
+        "smp": "LT3"
+      }
+    },
+    {
+      "name": "Chivvaas",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Chivvaas",
+      "tiers": {
+        "mace": "HT5"
+      }
+    },
+    {
+      "name": "Titans",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/Titans",
+      "tiers": {
+        "beast": "LT4",
+        "smp": "LT4"
+      }
+    },
+    {
+      "name": "oguzly",
+      "region": "TR",
+      "avatar": "https://mc-heads.net/avatar/oguzly",
+      "tiers": {
+        "nethpot": "HT2",
+        "diapot": "HT3"
       }
     }
   ]
