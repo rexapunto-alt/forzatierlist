@@ -41,19 +41,6 @@
                                   }
                     },
                     {
-                        "name":  "JdediS",
-                        "region":  "TR",
-                        "avatar":  "https://mc-heads.net/avatar/JdediS",
-                        "tiers":  {
-                                      "nethpot": "HT4",
-                                      "uhc": "LT3",
-                                      "beast": "LT3",
-                                      "smp": "HT3",
-                                      "crystal": "HT5",
-                                      "axe": "HT3"
-                                  }
-                    },
-                    {
                         "name":  "ItsOmyx",
                         "region":  "TR",
                         "avatar":  "https://mc-heads.net/avatar/ItsOmyx",
